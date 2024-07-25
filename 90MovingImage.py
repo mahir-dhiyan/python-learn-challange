@@ -4,6 +4,7 @@ from tkinter import *
 window=Tk()
 
 print("Hellow")
+print("Test 2")
 
 
 
