@@ -1,5 +1,6 @@
 # 90. Moving Image on window[09:18:27]-----------------------------------------------
 from tkinter import *
+# Pillow for image resize
 from PIL import Image, ImageTk
 window=Tk()
 

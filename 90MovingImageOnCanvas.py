@@ -1,5 +1,6 @@
 # 90. Moving Image on Canvas [09:24:05]----------------------------------------------------
 from tkinter import *
+# Pillow for image resize
 from PIL import Image,ImageTk
 def move_up(event):
     canvas.move(carImage,0,-10)
